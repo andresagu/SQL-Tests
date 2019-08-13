@@ -6,4 +6,6 @@ Simple command line interface that interects with a local mySQL database. This C
 See attached video for sample of app functionality.
  ### Using following Node Packages
  `npm install mysql`
+ 
+ 
  `npm install inquirer`
